@@ -1,5 +1,11 @@
 # 💳 Node.js Stripe Subscriptions Function
 
+## About
+- **What it is:** Appwrite's sample function for taking recurring Stripe card payments, copied to try it out.
+- **Business:** learning
+- **Status:** inactive since 2025-04
+- **Source:** agent research 2026-11-04
+
 Receive recurring card payments and grant subscribers extra permissions.
 
 ## 🧰 Usage
