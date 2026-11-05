@@ -6,8 +6,6 @@
 - **Status:** inactive since 2025-04
 - **Source:** agent research 2026-11-04
 
-Receive recurring card payments and grant subscribers extra permissions.
-
 ## 🧰 Usage
 
 ### `POST /subscribe`
